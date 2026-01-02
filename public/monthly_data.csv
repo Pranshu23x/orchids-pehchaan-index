@@ -1,0 +1,313 @@
+Month,State,District,Age_0_5,Age_5_17,Age_18_plus
+2025-06,Andhra Pradesh,Visakhapatnam,892,1245,3421
+2025-06,Andhra Pradesh,Vijayawada,654,987,2876
+2025-06,Andhra Pradesh,Guntur,423,567,1923
+2025-06,Arunachal Pradesh,Itanagar,34,89,156
+2025-06,Assam,Guwahati,567,823,2134
+2025-06,Assam,Dibrugarh,234,345,987
+2025-06,Bihar,Patna,1234,1876,4532
+2025-06,Bihar,Gaya,876,1234,3421
+2025-06,Bihar,Muzaffarpur,654,923,2765
+2025-06,Chhattisgarh,Raipur,456,678,1876
+2025-06,Chhattisgarh,Bilaspur,234,345,987
+2025-06,Delhi,Central Delhi,567,834,2345
+2025-06,Delhi,South Delhi,789,1123,3456
+2025-06,Delhi,West Delhi,456,678,1987
+2025-06,Delhi,North Delhi,654,923,2654
+2025-06,Delhi,East Delhi,543,789,2123
+2025-06,Goa,North Goa,123,234,567
+2025-06,Goa,South Goa,89,156,423
+2025-06,Gujarat,Ahmedabad,1456,2134,5678
+2025-06,Gujarat,Surat,1234,1876,4987
+2025-06,Gujarat,Vadodara,678,987,2765
+2025-06,Gujarat,Rajkot,456,678,1876
+2025-06,Haryana,Gurugram,987,1456,3876
+2025-06,Haryana,Faridabad,765,1123,2987
+2025-06,Haryana,Ambala,345,512,1432
+2025-06,Himachal Pradesh,Shimla,234,345,876
+2025-06,Himachal Pradesh,Kangra,189,267,654
+2025-06,Jharkhand,Ranchi,567,834,2234
+2025-06,Jharkhand,Jamshedpur,456,678,1876
+2025-06,Karnataka,Bengaluru Urban,2345,3456,8765
+2025-06,Karnataka,Mysuru,567,834,2123
+2025-06,Karnataka,Mangaluru,345,512,1345
+2025-06,Karnataka,Hubli-Dharwad,423,634,1654
+2025-06,Kerala,Thiruvananthapuram,456,678,1765
+2025-06,Kerala,Kochi,567,834,2123
+2025-06,Kerala,Kozhikode,345,512,1345
+2025-06,Madhya Pradesh,Bhopal,876,1234,3234
+2025-06,Madhya Pradesh,Indore,987,1456,3765
+2025-06,Madhya Pradesh,Jabalpur,456,678,1765
+2025-06,Madhya Pradesh,Gwalior,345,512,1345
+2025-06,Maharashtra,Mumbai,2876,4234,10234
+2025-06,Maharashtra,Pune,1876,2765,6987
+2025-06,Maharashtra,Nagpur,876,1234,3234
+2025-06,Maharashtra,Thane,1234,1876,4567
+2025-06,Maharashtra,Nashik,567,834,2123
+2025-06,Manipur,Imphal,123,189,456
+2025-06,Meghalaya,Shillong,89,134,345
+2025-06,Meghalaya,South Garo Hills,13,125,203
+2025-06,Mizoram,Aizawl,67,98,234
+2025-06,Nagaland,Kohima,56,89,212
+2025-06,Odisha,Bhubaneswar,678,987,2543
+2025-06,Odisha,Cuttack,456,678,1765
+2025-06,Punjab,Ludhiana,765,1123,2876
+2025-06,Punjab,Amritsar,567,834,2234
+2025-06,Punjab,Jalandhar,456,678,1765
+2025-06,Rajasthan,Jaipur,1234,1876,4765
+2025-06,Rajasthan,Jodhpur,678,987,2543
+2025-06,Rajasthan,Udaipur,456,678,1765
+2025-06,Sikkim,Gangtok,45,78,189
+2025-06,Tamil Nadu,Chennai,1567,2345,5876
+2025-06,Tamil Nadu,Coimbatore,876,1234,3234
+2025-06,Tamil Nadu,Madurai,567,834,2123
+2025-06,Tamil Nadu,Tiruchirappalli,456,678,1765
+2025-06,Telangana,Hyderabad,1876,2765,6987
+2025-06,Telangana,Warangal,456,678,1765
+2025-06,Telangana,Nizamabad,234,345,876
+2025-06,Tripura,Agartala,145,212,534
+2025-06,Uttar Pradesh,Lucknow,1456,2134,5432
+2025-06,Uttar Pradesh,Kanpur,987,1456,3765
+2025-06,Uttar Pradesh,Varanasi,876,1234,3234
+2025-06,Uttar Pradesh,Agra,765,1123,2876
+2025-06,Uttar Pradesh,Noida,1234,1876,4567
+2025-06,Uttar Pradesh,Ghaziabad,987,1456,3654
+2025-06,Uttarakhand,Dehradun,456,678,1765
+2025-06,Uttarakhand,Haridwar,345,512,1345
+2025-06,West Bengal,Kolkata,1876,2765,6876
+2025-06,West Bengal,Howrah,765,1123,2876
+2025-06,West Bengal,Durgapur,456,678,1765
+2025-07,Andhra Pradesh,Visakhapatnam,923,1312,3654
+2025-07,Andhra Pradesh,Vijayawada,687,1023,2987
+2025-07,Andhra Pradesh,Guntur,456,598,2012
+2025-07,Arunachal Pradesh,Itanagar,38,95,167
+2025-07,Assam,Guwahati,598,867,2234
+2025-07,Assam,Dibrugarh,256,378,1023
+2025-07,Bihar,Patna,1298,1945,4765
+2025-07,Bihar,Gaya,912,1298,3567
+2025-07,Bihar,Muzaffarpur,687,967,2876
+2025-07,Chhattisgarh,Raipur,489,712,1954
+2025-07,Chhattisgarh,Bilaspur,256,378,1023
+2025-07,Delhi,Central Delhi,598,876,2456
+2025-07,Delhi,South Delhi,823,1178,3598
+2025-07,Delhi,West Delhi,153,34,0
+2025-07,Delhi,North Delhi,687,967,2765
+2025-07,Delhi,East Delhi,576,823,2212
+2025-07,Goa,North Goa,134,256,598
+2025-07,Goa,South Goa,95,167,456
+2025-07,Gujarat,Ahmedabad,1523,2234,5912
+2025-07,Gujarat,Surat,1298,1954,5123
+2025-07,Gujarat,Vadodara,712,1023,2876
+2025-07,Gujarat,Rajkot,489,712,1954
+2025-07,Haryana,Gurugram,1023,1523,4012
+2025-07,Haryana,Faridabad,798,1167,3098
+2025-07,Haryana,Ambala,367,545,1498
+2025-07,Himachal Pradesh,Shimla,256,378,912
+2025-07,Himachal Pradesh,Kangra,198,289,687
+2025-07,Jharkhand,Ranchi,598,876,2345
+2025-07,Jharkhand,Jamshedpur,489,712,1954
+2025-07,Karnataka,Bengaluru Urban,1349,813,498
+2025-07,Karnataka,Mysuru,598,876,2212
+2025-07,Karnataka,Mangaluru,367,545,1398
+2025-07,Karnataka,Hubli-Dharwad,456,667,1723
+2025-07,Kerala,Thiruvananthapuram,489,712,1834
+2025-07,Kerala,Kochi,598,876,2212
+2025-07,Kerala,Kozhikode,367,545,1398
+2025-07,Madhya Pradesh,Bhopal,912,1298,3367
+2025-07,Madhya Pradesh,Indore,1023,1523,3912
+2025-07,Madhya Pradesh,Jabalpur,489,712,1834
+2025-07,Madhya Pradesh,Gwalior,367,545,1398
+2025-07,Maharashtra,Mumbai,2987,4398,10567
+2025-07,Maharashtra,Pune,1954,2876,7234
+2025-07,Maharashtra,Nagpur,912,1298,3367
+2025-07,Maharashtra,Thane,1298,1954,4765
+2025-07,Maharashtra,Nashik,598,876,2212
+2025-07,Manipur,Imphal,134,198,478
+2025-07,Meghalaya,Shillong,95,145,367
+2025-07,Meghalaya,South Garo Hills,15,134,212
+2025-07,Mizoram,Aizawl,72,105,245
+2025-07,Nagaland,Kohima,61,95,223
+2025-07,Odisha,Bhubaneswar,712,1023,2654
+2025-07,Odisha,Cuttack,489,712,1834
+2025-07,Punjab,Ludhiana,798,1167,2987
+2025-07,Punjab,Amritsar,598,876,2323
+2025-07,Punjab,Jalandhar,489,712,1834
+2025-07,Rajasthan,Jaipur,1298,1954,4954
+2025-07,Rajasthan,Jodhpur,712,1023,2654
+2025-07,Rajasthan,Udaipur,489,712,1834
+2025-07,Sikkim,Gangtok,48,84,198
+2025-07,Tamil Nadu,Chennai,1634,2434,6098
+2025-07,Tamil Nadu,Coimbatore,912,1298,3367
+2025-07,Tamil Nadu,Madurai,598,876,2212
+2025-07,Tamil Nadu,Tiruchirappalli,489,712,1834
+2025-07,Telangana,Hyderabad,1954,2876,7234
+2025-07,Telangana,Warangal,489,712,1834
+2025-07,Telangana,Nizamabad,256,378,912
+2025-07,Tripura,Agartala,156,223,556
+2025-07,Uttar Pradesh,Lucknow,1523,2234,5654
+2025-07,Uttar Pradesh,Kanpur,1023,1523,3912
+2025-07,Uttar Pradesh,Varanasi,912,1298,3367
+2025-07,Uttar Pradesh,Agra,798,1167,2987
+2025-07,Uttar Pradesh,Noida,1298,1954,4765
+2025-07,Uttar Pradesh,Ghaziabad,1023,1523,3798
+2025-07,Uttarakhand,Dehradun,489,712,1834
+2025-07,Uttarakhand,Haridwar,367,545,1398
+2025-07,West Bengal,Kolkata,1954,2876,7123
+2025-07,West Bengal,Howrah,798,1167,2987
+2025-07,West Bengal,Durgapur,489,712,1834
+2025-08,Andhra Pradesh,Visakhapatnam,956,1378,3812
+2025-08,Andhra Pradesh,Vijayawada,712,1067,3098
+2025-08,Andhra Pradesh,Guntur,478,623,2098
+2025-08,Arunachal Pradesh,Itanagar,42,102,178
+2025-08,Assam,Guwahati,623,912,2345
+2025-08,Assam,Dibrugarh,278,398,1067
+2025-08,Bihar,Patna,1356,2034,4987
+2025-08,Bihar,Gaya,956,1356,3712
+2025-08,Bihar,Muzaffarpur,712,1012,2987
+2025-08,Chhattisgarh,Raipur,512,745,2034
+2025-08,Chhattisgarh,Bilaspur,278,398,1067
+2025-08,Delhi,Central Delhi,623,912,2567
+2025-08,Delhi,South Delhi,856,1223,3745
+2025-08,Delhi,West Delhi,498,723,2098
+2025-08,Delhi,North Delhi,712,1012,2876
+2025-08,Delhi,East Delhi,598,856,2312
+2025-08,Goa,North Goa,145,278,623
+2025-08,Goa,South Goa,102,178,478
+2025-08,Gujarat,Ahmedabad,1589,2334,6123
+2025-08,Gujarat,Surat,1356,2034,5345
+2025-08,Gujarat,Vadodara,745,1067,2987
+2025-08,Gujarat,Rajkot,512,745,2034
+2025-08,Haryana,Gurugram,1067,1589,4178
+2025-08,Haryana,Faridabad,823,1212,3212
+2025-08,Haryana,Ambala,389,567,1556
+2025-08,Himachal Pradesh,Shimla,278,398,956
+2025-08,Himachal Pradesh,Kangra,212,312,712
+2025-08,Jharkhand,Ranchi,623,912,2456
+2025-08,Jharkhand,Jamshedpur,512,745,2034
+2025-08,Karnataka,Bengaluru Urban,2456,3567,8987
+2025-08,Karnataka,Mysuru,623,912,2312
+2025-08,Karnataka,Mangaluru,389,567,1456
+2025-08,Karnataka,Hubli-Dharwad,478,698,1798
+2025-08,Kerala,Thiruvananthapuram,512,745,1912
+2025-08,Kerala,Kochi,623,912,2312
+2025-08,Kerala,Kozhikode,389,567,1456
+2025-08,Madhya Pradesh,Bhopal,956,1356,3512
+2025-08,Madhya Pradesh,Indore,1067,1589,4078
+2025-08,Madhya Pradesh,Jabalpur,512,745,1912
+2025-08,Madhya Pradesh,Gwalior,389,567,1456
+2025-08,Maharashtra,Mumbai,3098,4567,10987
+2025-08,Maharashtra,Pune,2034,2987,7512
+2025-08,Maharashtra,Nagpur,956,1356,3512
+2025-08,Maharashtra,Thane,1356,2034,4987
+2025-08,Maharashtra,Nashik,623,912,2312
+2025-08,Manipur,Imphal,145,212,498
+2025-08,Meghalaya,Shillong,102,156,389
+2025-08,Meghalaya,South Garo Hills,18,145,223
+2025-08,Mizoram,Aizawl,78,112,256
+2025-08,Nagaland,Kohima,65,102,234
+2025-08,Odisha,Bhubaneswar,745,1067,2765
+2025-08,Odisha,Cuttack,512,745,1912
+2025-08,Punjab,Ludhiana,823,1212,3098
+2025-08,Punjab,Amritsar,623,912,2412
+2025-08,Punjab,Jalandhar,512,745,1912
+2025-08,Rajasthan,Jaipur,1356,2034,5145
+2025-08,Rajasthan,Jodhpur,745,1067,2765
+2025-08,Rajasthan,Udaipur,512,745,1912
+2025-08,Sikkim,Gangtok,52,89,212
+2025-08,Tamil Nadu,Chennai,1698,2523,6345
+2025-08,Tamil Nadu,Coimbatore,956,1356,3512
+2025-08,Tamil Nadu,Madurai,623,912,2312
+2025-08,Tamil Nadu,Tiruchirappalli,512,745,1912
+2025-08,Telangana,Hyderabad,2034,2987,7512
+2025-08,Telangana,Warangal,512,745,1912
+2025-08,Telangana,Nizamabad,278,398,956
+2025-08,Tripura,Agartala,167,245,578
+2025-08,Uttar Pradesh,Lucknow,1589,2334,5876
+2025-08,Uttar Pradesh,Kanpur,1067,1589,4078
+2025-08,Uttar Pradesh,Varanasi,956,1356,3512
+2025-08,Uttar Pradesh,Agra,823,1212,3098
+2025-08,Uttar Pradesh,Noida,1356,2034,4987
+2025-08,Uttar Pradesh,Ghaziabad,1067,1589,3956
+2025-08,Uttarakhand,Dehradun,512,745,1912
+2025-08,Uttarakhand,Haridwar,389,567,1456
+2025-08,West Bengal,Kolkata,2034,2987,7412
+2025-08,West Bengal,Howrah,823,1212,3098
+2025-08,West Bengal,Durgapur,512,745,1912
+2025-09,Andhra Pradesh,Visakhapatnam,989,1423,3956
+2025-09,Andhra Pradesh,Vijayawada,745,1112,3212
+2025-09,Andhra Pradesh,Guntur,498,656,2178
+2025-09,Arunachal Pradesh,Itanagar,45,108,189
+2025-09,Assam,Guwahati,656,956,2456
+2025-09,Assam,Dibrugarh,298,423,1112
+2025-09,Bihar,Patna,1412,2123,5178
+2025-09,Bihar,Gaya,989,1412,3856
+2025-09,Bihar,Muzaffarpur,745,1056,3098
+2025-09,Chhattisgarh,Raipur,534,778,2112
+2025-09,Chhattisgarh,Bilaspur,298,423,1112
+2025-09,Delhi,Central Delhi,656,956,2678
+2025-09,Delhi,South Delhi,889,1278,3889
+2025-09,Delhi,West Delhi,523,756,2178
+2025-09,Delhi,North Delhi,745,1056,2989
+2025-09,Delhi,East Delhi,623,889,2412
+2025-09,Goa,North Goa,156,298,656
+2025-09,Goa,South Goa,108,189,498
+2025-09,Gujarat,Ahmedabad,1656,2434,6356
+2025-09,Gujarat,Surat,1412,2123,5556
+2025-09,Gujarat,Vadodara,778,1112,3098
+2025-09,Gujarat,Rajkot,534,778,2112
+2025-09,Haryana,Gurugram,1112,1656,4345
+2025-09,Haryana,Faridabad,856,1267,3345
+2025-09,Haryana,Ambala,412,589,1623
+2025-09,Himachal Pradesh,Shimla,298,423,989
+2025-09,Himachal Pradesh,Kangra,223,334,745
+2025-09,Jharkhand,Ranchi,656,956,2567
+2025-09,Jharkhand,Jamshedpur,534,778,2112
+2025-09,Karnataka,Bengaluru Urban,2534,3712,9345
+2025-09,Karnataka,Mysuru,656,956,2412
+2025-09,Karnataka,Mangaluru,412,589,1523
+2025-09,Karnataka,Hubli-Dharwad,498,723,1878
+2025-09,Kerala,Thiruvananthapuram,534,778,1989
+2025-09,Kerala,Kochi,656,956,2412
+2025-09,Kerala,Kozhikode,412,589,1523
+2025-09,Madhya Pradesh,Bhopal,989,1412,3656
+2025-09,Madhya Pradesh,Indore,1112,1656,4234
+2025-09,Madhya Pradesh,Jabalpur,534,778,1989
+2025-09,Madhya Pradesh,Gwalior,412,589,1523
+2025-09,Maharashtra,Mumbai,3212,4756,11412
+2025-09,Maharashtra,Pune,2123,3098,7812
+2025-09,Maharashtra,Nagpur,989,1412,3656
+2025-09,Maharashtra,Thane,1412,2123,5178
+2025-09,Maharashtra,Nashik,656,956,2412
+2025-09,Manipur,Imphal,156,223,523
+2025-09,Meghalaya,Shillong,108,167,412
+2025-09,Meghalaya,South Garo Hills,21,156,234
+2025-09,Mizoram,Aizawl,82,118,267
+2025-09,Nagaland,Kohima,69,108,245
+2025-09,Odisha,Bhubaneswar,778,1112,2878
+2025-09,Odisha,Cuttack,534,778,1989
+2025-09,Punjab,Ludhiana,856,1267,3212
+2025-09,Punjab,Amritsar,656,956,2512
+2025-09,Punjab,Jalandhar,534,778,1989
+2025-09,Rajasthan,Jaipur,1412,2123,5345
+2025-09,Rajasthan,Jodhpur,778,1112,2878
+2025-09,Rajasthan,Udaipur,534,778,1989
+2025-09,Sikkim,Gangtok,56,95,223
+2025-09,Tamil Nadu,Chennai,202,69,1
+2025-09,Tamil Nadu,Coimbatore,989,1412,3656
+2025-09,Tamil Nadu,Madurai,656,956,2412
+2025-09,Tamil Nadu,Tiruchirappalli,534,778,1989
+2025-09,Telangana,Hyderabad,2123,3098,7812
+2025-09,Telangana,Warangal,534,778,1989
+2025-09,Telangana,Nizamabad,298,423,989
+2025-09,Tripura,Agartala,178,267,598
+2025-09,Uttar Pradesh,Lucknow,1656,2434,6098
+2025-09,Uttar Pradesh,Kanpur,1112,1656,4234
+2025-09,Uttar Pradesh,Varanasi,989,1412,3656
+2025-09,Uttar Pradesh,Agra,856,1267,3212
+2025-09,Uttar Pradesh,Noida,1412,2123,5178
+2025-09,Uttar Pradesh,Ghaziabad,1112,1656,4112
+2025-09,Uttarakhand,Dehradun,534,778,1989
+2025-09,Uttarakhand,Haridwar,412,589,1523
+2025-09,West Bengal,Kolkata,2123,3098,7712
+2025-09,West Bengal,Howrah,856,1267,3212
+2025-09,West Bengal,Durgapur,534,778,1989
